@@ -1,0 +1,9 @@
+.selected{
+    background-color: tomato;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.notSelected{
+    padding: 20px;
+}
